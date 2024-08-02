@@ -1,1 +1,2 @@
-# pantrymanagement
+# pantry management
+The Pantry Management System is a comprehensive web application designed to streamline the process of managing pantry inventory. Built with HTML, CSS, and JavaScript, this system offers real-time tracking of pantry items, allowing users to effortlessly add, edit, and delete items as needed. One of its standout features is the expiration alert system, which notifies users when items are nearing their expiration dates, helping to reduce waste. 
